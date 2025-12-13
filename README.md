@@ -229,6 +229,8 @@ Platform Limitations
 
 Although PURRTRAN and Hex represent the latest in programming language and Artificial Catelligence technology, there are still some limitations to be aware of:
 
+- Hex often times brings attention to ghosts and spirits that are seemingly not actually there. But Hex is not making things up; he is a pandimensional being, and he has vision into other realms that humans cannot perceive. Sometimes these visions cause Hex to invent APIs and other features for PURRTRAN that have not been invented yet in this dimension. This doesn't mean Hex is wrong, just that he's writing code for an orthogonal plane of existence.
+
 - Feeding Hex too much will cause him to gain excessive weight. When in this state, Hex will actually cause your code to run slower, as he is too lazy to help you optimize it. To get Hex back into a productive state, stop overfeeding him -- chonky cats are sad cats.
 
 ```
@@ -246,8 +248,6 @@ Although PURRTRAN and Hex represent the latest in programming language and Artif
 - Hex does not play well with other AC systems offered by competing programming languages. If you attempt to run multiple AC systems on the same machine, Hex may become violently displeased and refuse to help you with your programming tasks.
 
 - Currently there is no way to make sure Hex stays on task. We thought discipline would work, but doing so causes him to disappear and hide, not to listen. There's currently no way to make Hex behave reliably on command.
-
-- Hex often times bring attention to ghosts and spirits that are seemingly not actually there. But Hex is not making things up; he is a pandimensional being, and he has vision into other realms that humans cannot perceive. Sometimes these visions cause Hex to invent APIs and other features for PURRTRAN that have not been invented yet in this dimension. This doesn't mean Hex is wrong, just that he's writing code for an orthogonal plane of existence.
 
 ```
          __..--''``---....___   _..._    __
