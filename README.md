@@ -236,7 +236,7 @@ Although PURRTRAN and Hex represent the latest in programming language and Artif
 
 - Hex often times brings attention to ghosts and spirits that are seemingly not actually there. But Hex is not making things up; he is a pandimensional being, and he has vision into other realms that humans cannot perceive. Sometimes these visions cause Hex to invent APIs and other features for PURRTRAN that have not been invented yet in this dimension. This doesn't mean Hex is wrong, just that he's writing code for an orthogonal plane of existence.
 
-- Sometimes Hex will disappear for long periods of time, perhaps a week or more. He might return later. Perhaps the last time you saw him was the last time you'll ever see him. Who can say for sure? No one knows for sure, but it's theorized Hex travels to other dimensions during these absences.
+- Sometimes Hex will disappear for long periods of time, perhaps a week or more. He might return later. Perhaps the last time you saw him was the last time you'll ever see him. Who can say? No one knows for sure, but it's theorized Hex travels to other dimensions during these absences.
 
 
 ```
