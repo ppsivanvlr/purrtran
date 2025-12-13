@@ -1,7 +1,7 @@
 PURRTRAN - ᓚᘏᗢ - A Programming Language For People Who Wish They Had A Cat To Help Them Code
 ===========================================================================================
 
-Programmers who've been chosen by a cat know the joys they can bring to the programming experience. Sadly, not everyone has been chosen by a cat, so they don't know what they're missing out on! `PURRTRAN` is a programming language and system designed to give these poor unfortunate developers the full experience of coding with a furry friend.
+Programmers who've been chosen by a cat know the joys they can bring to the programming experience. Sadly, not everyone has been chosen by a cat, so they don't know what they're missing out on! PURRTRAN is a programming language and system designed to give these poor unfortunate developers the full experience of coding with a furry friend.
 
 Artificial Catelligence
 -------------------------------------------------------------------------------
